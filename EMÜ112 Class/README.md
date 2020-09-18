@@ -1,6 +1,6 @@
 ## Second term of the Python classes taught by my awesome teacher <a href="http://yunus.hacettepe.edu.tr/~uhus/publications.php">Umut Hüseyinoğlu</a> at Hacettepe University
 
-Taken between: Feb-June 2020
+Taken between: Feb-June 2020            
 Grade recieved: A1
 
 Topics covered:
