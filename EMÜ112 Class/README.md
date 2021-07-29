@@ -1,9 +1,9 @@
-## Second term of the Python classes taught by my awesome teacher <a href="http://yunus.hacettepe.edu.tr/~uhus/publications.php">Umut Hüseyinoğlu</a> at Hacettepe University
+## Second term of the Python classes taught by my awesome teacher <a href="https://orcid.org/0000-0002-8513-351X">Umut Hüseyinoğlu</a> at Hacettepe University
 
 Taken between: Feb-June 2020            
 Grade recieved: A1
 
-Topics covered:
+Topics covered (and allowed to use at the time):
 - Files and Exceptions
 - Lists and Tuples
 - Strings (in further detail)
