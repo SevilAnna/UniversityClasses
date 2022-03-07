@@ -2,3 +2,11 @@
 
 Taken between: Feb-June 2021            
 Grade recieved: A2
+
+Topics covered:
+- Discrete & continuous markov chains, 
+- Long-run behavior & transient analysis,
+- Queues, 
+- Jackson networks,
+- Renewal processes,
+- Little's Theorem
