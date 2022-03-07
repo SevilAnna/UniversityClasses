@@ -6,4 +6,5 @@ Grade recieved: A1
 Some of the topics covered:
 - Relational databases
 - SQL
-- Python & PostgreSQL
+- Python
+- PostgreSQL
