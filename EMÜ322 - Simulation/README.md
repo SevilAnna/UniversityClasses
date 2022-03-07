@@ -12,3 +12,5 @@ Topics covered:
 - Comparison of alternative systems
 
 Software: ARENA Simulation
+
+The file in this folder is for only a small part of the topics, which I used Python to solve.
